@@ -1,0 +1,13 @@
+---
+title: "Homework 1"
+author: "Jake Fenley"
+date: "9/16/2021"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Test
+does it work?
